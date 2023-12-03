@@ -120,3 +120,4 @@ window.onload = () => {
     gridHeight.value = 0;
     gridWidth.value = 0;
 };
+
